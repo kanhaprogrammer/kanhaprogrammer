@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://webinstant.online/">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/kanhaprogrammer">💼 LinkedIn</a> •
-  <a href="https://twitter.com/KanhaProgrammer">🐦 Twitter/X</a> •
-  <a href="https://www.instagram.com/KanhaSProgramer">📸 Instagram</a>
+  <a href="https://twitter.com/KanhaSProgramer">🐦 Twitter/X</a> •
+  <a href="https://www.instagram.com/kanhaprogrammer">📸 Instagram</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm a Web Developer based in Ghaziabad, Uttar Pradesh, India, passionate about b
 
 I work at **WebInstant**, where I design and develop business websites, portfolio sites, landing pages, productivity tools, and e-commerce solutions — helping businesses, startups, and creators build a strong online presence.
 
-- 🏢 Founder @ [WebInstant](https://webinstant.online) & WebInstant-Works
+- 🏢 Founder @ [WebInstant](https://webinstant.online)
 - 💻 Web Developer (Part-time) @ Think Visual
 - 🎓 Studied at Central Board of Secondary Education (CBSE)
 - 🌱 Currently learning WordPress, WooCommerce, React, Node.js & full-stack development
