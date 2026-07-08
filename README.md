@@ -17,7 +17,7 @@ I'm a Web Developer based in Ghaziabad, Uttar Pradesh, India, passionate about b
 I work at **WebInstant**, where I design and develop business websites, portfolio sites, landing pages, productivity tools, and e-commerce solutions — helping businesses, startups, and creators build a strong online presence.
 
 - 🏢 Founder @ [WebInstant](https://webinstant.online)
-- 💻 Web Developer (Part-time) @ Think Visual
+- 💻 Web Developer (Part-time) @ [ThinkVisual](https://thinkvisual.in)
 - 🎓 Studied at Central Board of Secondary Education (CBSE)
 - 🌱 Currently learning WordPress, WooCommerce, React, Node.js & full-stack development
 - ⚡ Inspired by [@Ishan7390](https://github.com/Ishan7390)
