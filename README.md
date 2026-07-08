@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | Founder @WebInstant | Building fast, clean websites for businesses</h3>
 
 <p align="center">
-  <a href="https://kanhaprogrammer.github.io/Kanha-Portfolio/">🌐 Portfolio</a> •
+  <a href="https://webinstant.online/">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/kanhaprogrammer">💼 LinkedIn</a> •
   <a href="https://twitter.com/KanhaProgrammer">🐦 Twitter/X</a> •
   <a href="https://www.instagram.com/KanhaSProgramer">📸 Instagram</a>
