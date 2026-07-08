@@ -59,12 +59,6 @@ I work at **WebInstant**, where I design and develop business websites, portfoli
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanhaprogrammer&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaprogrammer&layout=compact)
-
----
 
 ### 🤝 Connect with me
 
