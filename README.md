@@ -63,8 +63,8 @@ I work at **WebInstant**, where I design and develop business websites, portfoli
 ### 🤝 Connect with me
 
 - 💼 LinkedIn: [in/kanha-programmer](https://www.linkedin.com/in/kanhaprogrammer)
-- 🐦 Twitter/X: [@KanhaProgrammer](https://twitter.com/KanhaProgrammer)
-- 📸 Instagram: [@KanhaSProgramer](https://www.instagram.com/KanhaSProgramer)
+- 🐦 Twitter/X: [@KanhaProgrammer](https://twitter.com/KanhaSProgramer)
+- 📸 Instagram: [@KanhaSProgramer](https://www.instagram.com/kanhaprogrammer)
 - 🌐 WebInstant: [webinstant.online](https://webinstant.online)
 
 <p align="center"><i>Launch Fast. Look Great. 🚀</i></p>
