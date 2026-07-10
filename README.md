@@ -85,8 +85,6 @@ Status: 🟢 open to freelance & collab
 
 <div align="center">
 
-<a href="https://github.com/kanhaprogrammer/Daily-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kanhaprogrammer&repo=Daily-Tracker&theme=radical&hide_border=true"/></a> <a href="https://github.com/kanhaprogrammer/Helpbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kanhaprogrammer&repo=Helpbook&theme=radical&hide_border=true"/></a> <a href="https://github.com/kanhaprogrammer/Expense-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kanhaprogrammer&repo=Expense-Tracker&theme=radical&hide_border=true"/></a> <a href="https://github.com/kanhaprogrammer/CRM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kanhaprogrammer&repo=CRM&theme=radical&hide_border=true"/></a>
-
 </div> <details> <summary align="center">📂 <b>Click to see the full project table</b></summary> <br/>
 
 |Project|Stack|Description|
