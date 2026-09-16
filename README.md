@@ -50,22 +50,6 @@ Status: 🟢 Open to freelance & collab
 
 <div align="center">
 
-## 📊 Snapshot
-
-| 🚀 Projects | 🏢 Brands | 📆 Years Building | 🔥 Contributions |
-|:---:|:---:|:---:|:---:|
-| **16+** | **2** | **4+** | **116+** |
-
-```text
-[ WEBINSTANT STATUS ] ██████████████████████░░░░  Launch Fast. Look Great. 🚀
-[ AVAILABILITY      ] ████████████████████████░░  Open for freelance work
-[ CAFFEINE LEVEL     ] ██████████░░░░░░░░░░░░░░░░  Send coffee ☕
-```
-
-</div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
