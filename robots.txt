@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kanhaprogrammer.in/sitemap.xml
+Sitemap: https://www.webinstant.online/sitemap.xml
