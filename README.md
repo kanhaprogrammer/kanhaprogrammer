@@ -1,6 +1,6 @@
 <div align="center">
 
- # Hi, I'm Kanha Sharma 👋
+# Hi, I'm Kanha Sharma 👋
 
 ### MERN Stack Web Developer · Founder of [WebInstant](https://www.webinstant.online/)
 
